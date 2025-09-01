@@ -1,0 +1,17 @@
+/* ./styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .title {
+    @apply text-2xl font-bold text-gray-800 dark:text-gray-200 md:text-4xl;
+  }
+}
+
+/* Dark mode transitions */
+* {
+  transition-property: color, background-color, border-color;
+  transition-duration: 200ms;
+  transition-timing-function: ease-in-out;
+}
