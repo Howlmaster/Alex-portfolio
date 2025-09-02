@@ -11,7 +11,7 @@ export const Card = (props: CardProps) => {
   return (
     <div
       id={id}
-      className="container w-full max-w-5xl mx-auto bg-white dark:bg-gray-800 shadow-sm dark:shadow-gray-700/50 transition-colors duration-200"
+      className="container w-full max-w-7xl mx-auto bg-white dark:bg-gray-800 shadow-sm dark:shadow-gray-700/50 transition-colors duration-200"
     >
       <div className="p-8 space-y-4 lg:space-y-10 lg:p-16">{children}</div>
     </div>

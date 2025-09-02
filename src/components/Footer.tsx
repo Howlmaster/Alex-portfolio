@@ -30,7 +30,7 @@ export const Footer = () => {
               <TeamsIcon className="w-5 h-5" />
             </a>
             <a
-              href="https://github.com/alexandergamboa"
+              href="https://github.com/Howlmaster"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 transition-colors duration-200 hover:bg-cyan-400 dark:hover:bg-cyan-500 rounded-full"

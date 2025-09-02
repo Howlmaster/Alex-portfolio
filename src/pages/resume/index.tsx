@@ -20,12 +20,6 @@ export default function Resume() {
                   alexandergamboa402@gmail.com
                 </a>
               </div>
-              <div className="flex flex-col">
-                <div className="text-gray-700 dark:text-gray-300">View my Upwork Profile:</div>
-                <a href="https://www.upwork.com/freelancers/~019c080888126be60d" target="_blank" rel="noopener noreferrer" className="text-teal-600 dark:text-teal-400 hover:text-teal-800 dark:hover:text-teal-300">
-                  https://www.upwork.com/freelancers/~019c080888126be60d
-                </a>
-              </div>
             </div>
           </div>
 

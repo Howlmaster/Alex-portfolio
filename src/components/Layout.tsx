@@ -45,7 +45,7 @@ function renderSide() {
               <TeamsIcon className="w-6 h-6" />
             </a>
             <a
-              href="https://github.com/alexandergamboa"
+              href="https://github.com/Howlmaster"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 transition-colors duration-200 hover:text-gray-700 dark:hover:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg"

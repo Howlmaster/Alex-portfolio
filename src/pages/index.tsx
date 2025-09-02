@@ -27,22 +27,22 @@ export default function Home() {
         </div>
         <div className="my-6 space-y-2 lg:my-12 md:mx-12">
           <p className="text-gray-700 dark:text-gray-300 sm:text-lg lg:text-2xl">
-            As a Data Scraping & Automation Architect with 8+ years of experience, I have broad experience designing and implementing scalable data pipelines for distributed systems.
+            As a <span className="font-bold">Data Scraping & Automation Architect</span> with <span className="font-bold">8+ years of experience</span>, I have broad experience designing and implementing <span className="font-bold">scalable data pipelines</span> for <span className="font-bold">distributed systems</span>.
           </p>
 
           <p className="text-gray-700 dark:text-gray-300 sm:text-lg lg:text-2xl">
-            I have successfully delivered projects leveraging Playwright, Scrapy, Puppeteer, and Selenium for robust browser automation and data extraction, ensuring reliability and efficiency across large-scale deployments.
+            I have successfully delivered projects leveraging <span className="font-bold">Playwright</span>, <span className="font-bold">Scrapy</span>, <span className="font-bold">Puppeteer</span>, and <span className="font-bold">Selenium</span> for robust <span className="font-bold">browser automation</span> and <span className="font-bold">data extraction</span>, ensuring <span className="font-bold">reliability and efficiency</span> across <span className="font-bold">large-scale deployments</span>.
           </p>
 
           <p className="text-gray-700 dark:text-gray-300 sm:text-lg lg:text-2xl">
-            In addition to my data engineering expertise, I have hands-on experience with AWS-based architectures, Node.js and Python backends, and Docker+CI/CD, enabling seamless deployment, security, and continuous delivery of data processing services.
+            In addition to my <span className="font-bold">data engineering expertise</span>, I have hands-on experience with <span className="font-bold">AWS-based architectures</span>, <span className="font-bold">Node.js</span> and <span className="font-bold">Python backends</span>, and <span className="font-bold">Docker+CI/CD</span>, enabling seamless <span className="font-bold">deployment, security, and continuous delivery</span> of <span className="font-bold">data processing services</span>.
           </p>
           <p className="text-gray-700 dark:text-gray-300 sm:text-lg lg:text-2xl">
-            I am always open to new challenges and opportunities to contribute
-            to impactful projects.
+            I am always open to new <span className="font-bold">challenges and opportunities</span> to contribute
+            to <span className="font-bold">impactful projects</span>.
           </p>
           <p className="text-gray-700 dark:text-gray-300 sm:text-lg lg:text-2xl">
-            I prioritize governance, credential management, and auditing to ensure resilient, scalable, and compliant data automation solutions.
+            I prioritize <span className="font-bold">governance</span>, <span className="font-bold">credential management</span>, and <span className="font-bold">auditing</span> to ensure <span className="font-bold">resilient, scalable, and compliant</span> data automation solutions.
           </p>
         </div>
         <div className="hidden grid-cols-2 gap-4 sm:grid">
@@ -83,11 +83,11 @@ export default function Home() {
           </div>
           <div className="my-8 xl:w-4/6 lg:w-3/5 lg:my-0">
             <p className="font-serif text-gray-700 dark:text-gray-300 sm:text-lg lg:text-xl">
-              My name is Alexandar Gamboa.
+              My name is <span className="font-bold">Alexandar Gamboa</span>.
               <span className="block">
-                As a Data Scraping & Automation Architect with 8+ years of experience, I have broad experience designing and implementing scalable data pipelines for distributed systems. I have successfully delivered projects leveraging Playwright, Scrapy, Puppeteer, and Selenium for robust browser automation and data extraction, ensuring reliability and efficiency across large-scale deployments.
+                As a <span className="font-bold">Data Scraping & Automation Architect</span> with <span className="font-bold">8+ years of experience</span>, I have broad experience designing and implementing <span className="font-bold">scalable data pipelines</span> for <span className="font-bold">distributed systems</span>. I have successfully delivered projects leveraging <span className="font-bold">Playwright</span>, <span className="font-bold">Scrapy</span>, <span className="font-bold">Puppeteer</span>, and <span className="font-bold">Selenium</span> for robust <span className="font-bold">browser automation</span> and <span className="font-bold">data extraction</span>, ensuring <span className="font-bold">reliability and efficiency</span> across <span className="font-bold">large-scale deployments</span>.
               </span>
-              <span className="block">I'm open to work at any time zone.</span>
+              <span className="block">I'm open to work at <span className="font-bold">any time zone</span>.</span>
             </p>
           </div>
         </div>
@@ -248,14 +248,7 @@ export default function Home() {
                 </a>
               </p>
             </div>
-            <div className="flex items-center">
-              <div className="mr-4 text-gray-700 dark:text-gray-300">View my Upwork Profile:</div>
-              <p className="text-base text-teal-600 dark:text-teal-400 md:text-lg">
-                <a href="https://www.upwork.com/freelancers/~019c080888126be60d" target="_blank" rel="noopener noreferrer">
-                  https://www.upwork.com/freelancers/~019c080888126be60d
-                </a>
-              </p>
-            </div>
+            
           </div>
         </div>
       </Card>
