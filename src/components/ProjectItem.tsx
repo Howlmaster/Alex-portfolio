@@ -45,8 +45,8 @@ export const ProjectItem = ({ item }: any) => {
           <Image
             src={item.img}
             alt="Picture of the author"
-            width={500}
-            height={500}
+            width={600}
+            height={600}
             className="h-40 md:h-60"
           />
 
